@@ -1,4 +1,4 @@
 # linear-regression
 linear regression analysis in python
 
-training of a linear regression model using datasets for life expectancy in the US
+analysis of a linear regression dataset using data for life expectancy in the US
